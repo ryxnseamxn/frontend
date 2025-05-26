@@ -1,0 +1,15 @@
+.carousel {
+    display: flex;
+}
+
+.slick-next {
+    display: none;
+    color: transparent;
+    border: 0;
+    cursor: pointer;
+    background-image: url("assets/right-arrow-red-half-shadow_78370-7770.avif");
+}
+
+.slick-prev {
+    background-image: url("assets/5d5aa5bf91d3b9492d166aa37dd44514.jpg");
+}
